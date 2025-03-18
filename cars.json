@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Porche 911 Carrera",
+        "price": 120100,
+        "type": "Sports",
+        "image": "images/porche.jpg"
+    },
+    {
+        "name": "Ford Mustang GT Premium",
+        "price": 57165,
+        "type": "Sports",
+        "image": "images/ford.jpg"
+    },
+    {
+        "name": "Ferrari SF90 XX Stradale ",
+        "price": 850000,
+        "type": "Hybrid",
+        "image": "images/ferrari.jpg"
+    },
+    {
+        "name": "BMW M8",
+        "price": 140000,
+        "type": "Sports",
+        "image": "images/bmw.jpg"
+    },
+    {
+        "name": "Audi R8",
+        "price": 153395,
+        "type": "Sports",
+        "image": "images/audi.jpg"
+    },
+    {
+        "name": "Mercedes Benz AMG",
+        "price": 137550,
+        "type": "Luxury",
+        "image": "images/mercedes.jpg"
+    }
+]
